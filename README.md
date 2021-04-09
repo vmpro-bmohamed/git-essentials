@@ -1,3 +1,6 @@
-# git-essentials
+# Git Essentials / Git For Everybody
 
-Some new stuff in here
+> This is a course to teach you how to use everyday git.
+
+Course created by Mohamed Baeis
+
